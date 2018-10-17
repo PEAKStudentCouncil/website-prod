@@ -1,29 +1,31 @@
 ---
 title: The Lunchtime Discussion Meetings
-date: 2018-10-18T00:04:10+09:00
+date: 2018-10-17T15:04:10.000Z
 description: >-
   The lunchtime discussion meetings have been decided to be the last Monday of
   each month for the 2018 autumn semester.
 image: /img/snake comment.jpg
 ---
+## What are these meetings
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+It is a private (but not anonymous) way for students to voice concerns, and to hear the professors' and administrators' view of how the PEAK program is run.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+In the past the following suggestions have come from these meetings
 
-## What the updates mean to you
+\- At least two distinct Japanese course restructuring
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+\- Adjustment in the rigour of the JEA International Relations course.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+\- Mathematics tutorials for PEAK Students in English
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+\- Increased hiring of science-oriented GO Tutors
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+\- Discussion on the institution of a system of prerequisite courses (currently shelved)
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Why you should attend
+
+The meetings are open for any interested student or faculty to attend. It is a great forum to hear what is going on in your program, understand the view of professors on the ways they run their classes, and even to just meet up with a professor you have not seen in a long while. They are open door, so you can come in and leave (with or without your lunch, but we suggest you bring yours) freely.
+
+
+
+There is no need to give a comment if you don't wish to, please relax and listen to the others. Or, if you are interested in speaking, then please ask your comment or question at this meeting!
