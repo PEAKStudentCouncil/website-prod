@@ -18,6 +18,14 @@ Clone this repository, and run `yarn` or `npm install` from the new folder to in
 
 Then start the development server with `yarn start` or `npm start`.
 
+For users of the git CLI interface, the following commands are suggested to start pushing to the development branch:
+
+1) git checkout -b development (please verify the blue text has changed from 'master' to 'development'
+
+2) git remote -v (please verify your remote is correct)
+
+3) git push --set-upstream origin development (when you make your first push to the live-web GitHub SVN)
+
 ## Live Development
 
 First, use the deploy button to get your own copy of the repository:
