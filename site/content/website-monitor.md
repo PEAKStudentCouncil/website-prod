@@ -1,7 +1,7 @@
 +++
-page = "/minutes.html"
-title = "Meeting minutes"
-type = "minutes"
+page = "/website-monitor.html"
+title = "Website Monitor"
+type = "monitor"
 
 +++
 The meeting minutes are to be released externally as a public-facing Google group.
