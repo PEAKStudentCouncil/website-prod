@@ -39,4 +39,8 @@ In no particular order
 
 ![](/uploads/Komabasai_3.jpg)
 
-Many of the volunteers posing early on the first day.![](/uploads/Komabasai_3-1.jpg)
+Many of the Council members and volunteers posing early on the first day.
+
+![](/uploads/Komabasai_2.jpg)Posed photo of our late-morning members and volunteer crowd on the second day.
+
+TITLE Photo Caption: Early afternoon photo of our members and volunteers on the third day.
