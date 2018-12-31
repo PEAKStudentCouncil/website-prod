@@ -1,7 +1,6 @@
 +++
-draft = true
-page = "/contact.html"
+page = "/overview.html"
 title = "Overview"
-type = "contact"
+type = "overview"
 
 +++
