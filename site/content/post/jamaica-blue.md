@@ -11,9 +11,9 @@ draft: true
 ---
 ## A little history
 
-Traditi
+Traditionally, PEAK Student Council did not have an established method for obtaining new members. The Council started around five years ago, as an organized method for PEAK students to communicate feedback to the professors and to ask for organized support behind student activities. 
 
-> Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+> The council is only around five years old, and .
 
 This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
