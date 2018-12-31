@@ -8,6 +8,8 @@ description: Our first PEAK booth at Komabasai festival was a big success. We tu
 image: "/img/Komabasai_1.jpg"
 
 ---
+TITLE Photo Caption: Early afternoon photo of our members and volunteers on the third day.
+
 This year, from Nov 23rd-25th, marked the 69th annual UTokyo - Komaba campus school festival. It was also our first-ever Kombasai in the eight years of the PEAK program, and it did not disappoint.
 
 We sold over 500 units of 'tornado potato' - a treat resembling a crispy, fried potato on a kebab stick - while chatting with our customers about what our major program is about. We even made friends with some community members - from a group of kindergartners to other clubs at the University.
@@ -44,5 +46,3 @@ Many of the Council members and volunteers posing early on the first day.
 ![](/img/Komabasai_2.jpg)
 
 Posed photo of our late-morning members and volunteer crowd on the second day.
-
-TITLE Photo Caption: Early afternoon photo of our members and volunteers on the third day.
