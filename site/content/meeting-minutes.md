@@ -1,9 +1,9 @@
 +++
-page = "/meeting-minutes.html"
 title = "Meeting Minutes"
 type = "minutes"
-
+page = "/meeting-minutes.html"
 +++
+
 The meeting minutes are to be released externally as a public-facing Google group.
 
 This will allow maximum efficiency, as the posting of the minutes can be conducted by simply writing an email to the group address and requests for comments (RFCs) and other responses to the ideas presented in the condensed minutes can be sent in by email.
