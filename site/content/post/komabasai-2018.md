@@ -1,9 +1,10 @@
 ---
 title: Komabasai 2018 Report
 date: 2018-12-14 04:40:00 +0000
-description: Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual that's
-  worth the effort every time.
+description: Our first PEAK booth at Komabasai festival was a big success. We turned
+  a profit on our fried potatoes and our T-shirt fundraiser, while also informing
+  the community members (including other UTokyo students and agents of the media)
+  about what our program is about.
 image: "/uploads/Komabasai_1.jpg"
 draft: true
 
