@@ -1,7 +1,7 @@
 +++
-page = "/activities.html"
 title = "Activities"
 type = "activities"
+page = "/activities.html"
 +++
 
 ### Introduction
