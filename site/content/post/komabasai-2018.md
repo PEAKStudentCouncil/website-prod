@@ -1,12 +1,12 @@
 ---
 title: Komabasai 2018 Report
-date: '2018-12-14 04:40:00 +0000'
-description: >-
-  Our first PEAK booth at Komabasai festival was a big success. We turned a
-  profit on our fried potatoes and our T-shirt fundraiser, while also informing
-  the community members (including other UTokyo students and agents of the
-  media) about what our program is about.
-image: /img/Komabasai_1.jpg
+date: 2018-12-14 04:40:00 +0000
+description: Our first PEAK booth at Komabasai festival was a big success. We turned
+  a profit on our fried potatoes and our T-shirt fundraiser, while also informing
+  the community members (including other UTokyo students and agents of the media)
+  about what our program is about.
+image: "/img/Komabasai_1.jpg"
+
 ---
 This year, from Nov 23rd-25th, marked the 69th annual UTokyo - Komaba campus school festival. It was also our first-ever Kombasai in the eight years of the PEAK program, and it did not disappoint.
 
@@ -37,10 +37,12 @@ In no particular order
 
 ### More Photos
 
-![](/uploads/Komabasai_3.jpg)
+![](/img/Komabasai_3.jpg)
 
 Many of the Council members and volunteers posing early on the first day.
 
-![](/uploads/Komabasai_2.jpg)Posed photo of our late-morning members and volunteer crowd on the second day.
+![](/img/Komabasai_2.jpg)
+
+Posed photo of our late-morning members and volunteer crowd on the second day.
 
 TITLE Photo Caption: Early afternoon photo of our members and volunteers on the third day.
