@@ -8,7 +8,7 @@ sections:
   path: site/static
   label: 'Uploads: Images and Files'
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: site/content
   label: Pages
