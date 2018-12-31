@@ -5,7 +5,7 @@ description: |-
   Keep an eye on this page for information on when positions open.
 
   The general time for recruitment is during 2nd semester of 1st year, though some exceptions may be made for exceptional candidates.
-image: "/img/12337117875_2fae22c14f_o.png"
+image: "/img/get_involved.jpg"
 
 ---
 ## A little history
