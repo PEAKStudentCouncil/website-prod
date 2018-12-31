@@ -1,6 +1,6 @@
 ---
-title: 'Recruitment and Available Positions: How to Join PEAK Student Council'
-date: 2018-12-31 00:20:00 +0000
+title: Recruitment and Available Positions for 2019
+date: 2018-12-31 01:05:00 +0000
 description: |-
   Keep an eye on this page for information on when positions open.
 
@@ -13,14 +13,12 @@ draft: true
 
 Traditionally, PEAK Student Council did not have an established method for obtaining new members. The Council started around five years ago, as an organized method for PEAK students to communicate feedback to the professors and to ask for organized support behind student activities. 
 
-> The council is only around five years old, and .
+> The council is only around five years old, and only recently enacted an organized recruitment system.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+The first active recruitment (where members were actively added into the council) was three years ago (early 2016). At the time, it was a quick Facebook post and everyone meeting in the dorm's common room. This continued for a few years until last year (early 2018) when it was decided that we would hold interviews as we received more applications than we had available positions. 
 
-## What you need to know before trying
+## So, Interviews?
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Yes, it could be called that.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+On the Student Council side, we first asked prospective members to fill in an online survey form. We called an application period of two weeks, and the form itself was rather simple - name, school year level, and  
