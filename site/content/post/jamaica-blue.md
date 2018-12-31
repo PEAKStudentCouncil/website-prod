@@ -1,17 +1,17 @@
 ---
 title: 'Recruitment and Available Positions: How to Join PEAK Student Council'
-date: 2018-12-31T09:20:00+09:00
-description: >-
+date: 2018-12-31 00:20:00 +0000
+description: |-
   Keep an eye on this page for information on when positions open.
 
+  The general time for recruitment is during 2nd semester of 1st year, though some exceptions may be made for exceptional candidates.
+image: "/img/12337117875_2fae22c14f_o.png"
+draft: true
 
-  The general time for recruitment is during 2nd semester of 1st year, though
-  some exceptions may be made for exceptional candidates.
-image: /img/12337117875_2fae22c14f_o.png
 ---
 ## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Traditi
 
 > Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
