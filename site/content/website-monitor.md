@@ -1,7 +1,6 @@
 +++
-draft = true
-page = "/activities.html"
+page = "/monitor.html"
 title = "Website Monitor"
-type = "activities"
+type = "monitor"
 
 +++
