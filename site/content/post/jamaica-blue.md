@@ -26,3 +26,13 @@ On the Student Council side, we first asked prospective members to fill in an on
 The interview itself was conducted by two senior members (over one year serving the council) and one junior member (less than one year) during the previous application cycle. We will not guarantee that this balance or total number of interviewers is preserved, but the interview will continue to be held as a panel interview. While the questions themselves may change, you should expect to speak about previous leadership experiences and/or why you wish to represent your peers in PEAK.
 
 Of note, not _everything_ we do is a protest to counter the current initiatives of the program. In fact, _only the smallest portion of our activities_ (see Overview page) might fall in this category - so please keep this in mind while you apply.
+
+## What positions are open?
+
+Good question. At the moment, we are looking for the following:
+
+(a) \[no current openings\]*
+
+The **_general application cycle_** is just beginning to go underway. Very early each year, we evaluate the potential openings and expansion of the Student Council. By the beginning of the academic school year in April, we will start to update this website and social media channels with our call for recruitment. The interviews have previously been in mid-May, just prior the Golden Week holiday. This will move up a couple weeks to prevent scheduling conflicts and mishaps. The internal evaluation will move up from late-May into June towards the period during Golden Week, with final votes occuring during the late-May meeting. Successful candidates should expect to begin service with the mid-June 2019 meeting.
+
+\*Please check back occasionally, positions may open spontaneously outside of the application cycle.
