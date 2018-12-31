@@ -6,7 +6,6 @@ description: Our first PEAK booth at Komabasai festival was a big success. We tu
   the community members (including other UTokyo students and agents of the media)
   about what our program is about.
 image: "/uploads/Komabasai_1.jpg"
-draft: true
 
 ---
 This year, from Nov 23rd-25th, marked the 69th annual UTokyo - Komaba campus school festival. It was also our first-ever Kombasai in the eight years of the PEAK program, and it did not disappoint. 
