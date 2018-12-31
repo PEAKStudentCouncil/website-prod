@@ -2,8 +2,8 @@
 page = "/activities.html"
 title = "Activities"
 type = "activities"
-
 +++
+
 ### Introduction
 
 As mentioned in our home page, the council's two main activities are the yearbook and the Komabasai festival. While these are our main activities, we do meet once per month, so usually there are a few other activities happening in parallel.
