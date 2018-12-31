@@ -8,11 +8,11 @@ description: Our first PEAK booth at Komabasai festival was a big success. We tu
 image: "/uploads/Komabasai_1.jpg"
 
 ---
-This year, from Nov 23rd-25th, marked the 69th annual UTokyo - Komaba campus school festival. It was also our first-ever Kombasai in the eight years of the PEAK program, and it did not disappoint. 
+This year, from Nov 23rd-25th, marked the 69th annual UTokyo - Komaba campus school festival. It was also our first-ever Kombasai in the eight years of the PEAK program, and it did not disappoint.
 
 We sold over 500 units of 'tornado potato' - a treat resembling a crispy, fried potato on a kebab stick - while chatting with our customers about what our major program is about. We even made friends with some community members - from a group of kindergartners to other clubs at the University.
 
-## Some things to remember for future years
+## Reflection for Future Years
 
 First off, perhaps is the following notes that may be useful for reflection for the future years
 
@@ -27,10 +27,10 @@ First off, perhaps is the following notes that may be useful for reflection for 
 In no particular order
 
 1. The UTokyo Newspaper took a photo of us and Fuji TV's _Sanam Equation of UTokyo_ interviewed some of our members.
-2.  A couple of us helped the Komabasai committee to sort the trash.
+2. A couple of us helped the Komabasai committee to sort the trash.
 3. A very dedicated art time spent many hours creating the booth's board design.
 4. The name started with an internal meeting's suggestion to have some members practice yoga as a performance near the stand. Taking after our internationalism, another member suggested the pun 'World of potatoes' (in Japanese, 'yo/ga-po/ta/to') which somehow** unanimously stuck.
-5. We fundraised a very large amount of money, more through the PEAK T-shirts that we designed as a fundraiser for this event, rather than the actual sales* of potatoes on the day of. 
+5. We fundraised a very large amount of money, more through the PEAK T-shirts that we designed as a fundraiser for this event, rather than the actual sales* of potatoes on the day of.
 
 \*We still made a profit.  
 \**Neither member has any clue why this may be, but it works.
