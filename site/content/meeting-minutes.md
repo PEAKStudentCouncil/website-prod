@@ -1,8 +1,7 @@
 +++
-draft = true
-page = "/website-monitor.html"
+page = "/meeting-minutes.html"
 title = "Meeting Minutes"
-type = "monitor"
+type = "minutes"
 
 +++
 The meeting minutes are to be released externally as a public-facing Google group.
