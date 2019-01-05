@@ -28,7 +28,7 @@ First off, perhaps is the following notes that may be useful for reflection for 
 
 In no particular order
 
-1. The UTokyo Newspaper took a photo of us and Fuji TV's _Sanam Equation of UTokyo_ interviewed some of our members.
+1. The UTokyo Newspaper took a photo of us and Fuji TV's _Sanma Equation of UTokyo_ (サンマの東大方程式) interviewed some of our members.
 2. A couple of us helped the Komabasai committee to sort the trash.
 3. A very dedicated art time spent many hours creating the booth's board design.
 4. The name started with an internal meeting's suggestion to have some members practice yoga as a performance near the stand. Taking after our internationalism, another member suggested the pun 'World of potatoes' (in Japanese, 'yo/ga-po/ta/to') which somehow** unanimously stuck.
