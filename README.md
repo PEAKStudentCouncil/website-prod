@@ -2,7 +2,7 @@
 
 Hi everyone! We're the small representative group of students in the [PEAK program](https://peak.c.u-tokyo.ac.jp/) at the University of Tokyo. This webpage will be the future home of our activities, including event reports, a students' voice blog, newsfeeds of changes to the primary student news/updates website, and eventually - signups to join the council / media requests for contact.
 
-If you are reading this, you can probably already see it for yourself, but the current maintaners of this project are [Alexander Tangiuchi-Wiegman](https://github.com/madicetea), [Onkar Gulatti](https://github.com/onks99), and [Abhishek Gupta](https://github.com/24abhi). We are all on GitHub under the organization called ["PEAKStudentCouncil"](https://github.com/PEAKStudentCouncil).
+If you are reading this, you can probably already see it for yourself, but the current maintaners of this project are [Alexander Tangiuchi-Wiegman](https://github.com/madicetea), and [Onkar Gulatti](https://github.com/onks99). We are all on GitHub under the organization called ["PEAKStudentCouncil"](https://github.com/PEAKStudentCouncil).
 
 Questions should be directed to us in the source code control by opening an [issue](https://github.com/PEAKStudentCouncil/website-prod/issues/new), but serious issues and ethics concerns should be emailed to the [current President of the Council](mailto:peakstudentcouncil@gmail.com).
 
