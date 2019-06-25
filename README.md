@@ -40,6 +40,9 @@ Then go to the "Access" tab in your new Netlify site and add a GitHub authentica
 
 Once that's done, you'll be able to enter the CMS by going to the URL of your new site and appending `/admin`
 
+## Contributors
+We have accepted security fix contributions as suggested by GitHub's security-dependabot. Thanks to the researchers who are reporting these for open fixing.
+
 ## In Closing
 
 Thanks for checking everything out and we hope this source code will be of use to others in the future.
