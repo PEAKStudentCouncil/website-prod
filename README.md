@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1abf88fb-b379-4846-af99-b2869e270838/deploy-status)](https://app.netlify.com/sites/peakstudentcouncil/deploys)
+
 # PEAK Student Council
 
 Hi everyone! We're the small representative group of students in the [PEAK program](https://peak.c.u-tokyo.ac.jp/) at the University of Tokyo. This webpage will be the future home of our activities, including event reports, a students' voice blog, newsfeeds of changes to the primary student news/updates website, and eventually - signups to join the council / media requests for contact.
