@@ -45,9 +45,11 @@ Once that's done, you'll be able to enter the CMS by going to the URL of your ne
 ## Contributors
 (1) We have accepted security fix contributions as suggested by GitHub's security-dependabot. Thanks to the researchers who are reporting these for open fixing.
 
-(2) Alexander Wiegman {@madicetea}
+(2) Many thanks to the contributors for the Victor Hugo template we use.
 
-(3) We're looking for more people! Blog writers can also be featured here, and there is an easy post-writing system via forestry.io for making new entries. Please inquire if interested!
+(3) Alexander Wiegman [{@madicetea}](https://github.com/madicetea)
+
+(4) We're looking for more people! Blog writers can also be featured here, and there is an easy post-writing system via forestry.io for making new entries. Please inquire if interested!
 
 ## In Closing
 
