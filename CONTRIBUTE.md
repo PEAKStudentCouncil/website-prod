@@ -7,7 +7,7 @@ Please clone the development branch to your own repository, make the changes, an
 
 We will, at our earliest convenience, review the pull request and if found (to be safe and) beneficial, we will include it in development and move it to production in due time.
 
-You will also be given a shoutout in either/or the README, a live page on the website, or the source code Wiki. (Haven't chosen where to put that yet.)
+You will also be given a shoutout in the README for the site.
 
 ## In Closing
 
