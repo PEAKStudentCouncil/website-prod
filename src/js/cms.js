@@ -1,6 +1,7 @@
 import React from "react";
 import CMS from "netlify-cms";
 
+//from this project
 import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
 
